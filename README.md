@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <!-- - 🤔 I’m looking for help with ... -->
 - 😄 Pronouns: **she/her**
-- 
+
 - 💬 Ask me about **Any topic within the realm of data and software! **
 
 - 📫 Reach me at: **ubshah@usc.edu**
