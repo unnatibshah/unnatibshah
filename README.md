@@ -37,85 +37,10 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="center">🚀 Technology Stack</h3>
-Web Development:
 
-Front-end Development:
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-- ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
-- ![CSS](https://img.icons8.com/color/48/000000/css3.png)
-- ![jQuery](https://img.icons8.com/ios-filled/50/000000/jquery.png)
-- ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
-- ![Angular](https://img.icons8.com/color/48/000000/angularjs.png)
-- ![React](https://img.icons8.com/plasticine/100/000000/react.png)
-
-Back-end Development:
-- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
-- ![Express.js](https://img.icons8.com/color/48/000000/express.png)
-- ![Flask](https://img.icons8.com/color/48/000000/flask.png)
-
-Database Development:
-- ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
-- ![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png)
-- ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
-
-
-Languages & Frameworks:
-
-Python:
-- ![Python](https://img.icons8.com/color/48/000000/python.png)
-- ![Pandas](https://img.icons8.com/color/48/000000/pandas.png)
-- ![NumPy](https://img.icons8.com/color/48/000000/numpy.png)
-- ![Scikit-learn](https://img.icons8.com/color/48/000000/scikit-learn.png)
-- ![Django](https://img.icons8.com/color/48/000000/django.png)
-- ![Flask](https://img.icons8.com/color/48/000000/flask.png)
-
-R Programming:
-- ![R Programming](https://img.icons8.com/color/48/000000/r.png)
-
-Scala:
-- ![Scala](https://img.icons8.com/color/48/000000/scala.png)
-
-Java:
-- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
-
-C/C++:
-- ![C/C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
-
-TypeScript:
-- ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
-
-Sure! Here's the Tools & Platforms section with icons for each skill that you can use in a GitHub readme:
-
-Tools & Platforms:
-
-Version Control:
-- ![Git](https://img.icons8.com/color/48/000000/git.png)
-
-Agile Methodology:
-- ![Scrum](https://img.icons8.com/color/48/000000/scrum.png)
-
-Data Storage:
-- ![Hadoop](https://img.icons8.com/color/48/000000/hadoop.png)
-- ![Hive](https://img.icons8.com/color/48/000000/apache-hive.png)
-- ![Spark](https://img.icons8.com/color/48/000000/apache-spark.png)
-
-Cloud Platforms:
-- ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
-- ![GCP](https://img.icons8.com/color/48/000000/google-cloud.png)
-
-Business Intelligence & Visualization:
-- ![Tableau](https://img.icons8.com/color/48/000000/tableau-software.png)
-- ![Power BI](https://img.icons8.com/color/48/000000/power-bi.png)
-
-ETL (Extract, Transform, Load):
-- ![Apache Kafka](https://img.icons8.com/color/48/000000/apache-kafka.png)
-- ![Apache Airflow](https://img.icons8.com/color/48/000000/apache-airflow.png)
-- ![Talend](https://img.icons8.com/color/48/000000/talend.png)
-
-Data Modeling & Warehousing:
-- ![SQL](https://img.icons8.com/color/48/000000/sql.png)
-- ![NoSQL](https://img.icons8.com/color/48/000000/nosql.png)
-- ![Data Modeling](https://img.icons8.com/color/48/000000/models-folder.png)
-- ![Snowflake](https://img.icons8.com/color/48/000000/snowflake.png)
-
-
+|               |           |
+|       ---     |    ---    |
+| `Web Development`     | ![HTML5](https://img.shields.io/badge/-HTML5-CC2400?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-E24800?style=for-the-badge&logo=css3) ![PHP](https://img.shields.io/badge/-PHP-CC2400?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-FE7601?style=for-the-badge&logo=javascript) ![Bootstrap](https://img.shields.io/badge/bootstrap-FE9A00?style=for-the-badge&logo=bootstrap&logoColor=white)|
+| `Languages & Frameworks`   | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![C++](https://img.shields.io/badge/-C++-034D9A?style=for-the-badge&logo=c%2B%2B) ![Java](https://img.shields.io/badge/-java-%23ED8B00?style=for-the-badge&logo=Java&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-307BBD?style=for-the-badge&logo=mysql&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) |
+| `Tools & Platforms`       | ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-5D1A60?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Git](https://img.shields.io/badge/Git-682181?style=for-the-badge&logo=git&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-AA2690?style=for-the-badge&logo=heroku&logoColor=white)  ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) |
+| `Machine Learning & Deep Learning` | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Seaborn](https://img.shields.io/badge/Seaborn-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)|
