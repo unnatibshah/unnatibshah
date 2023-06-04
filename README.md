@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi there 👋, I'm Unnati Shah</h1>
 <h3 align="center">MSCS @ University of Southern California</h3>
-<img align = "right" alt = 'Coding' width = "400" height = "400" src = "https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
+<img align = "right" alt = 'Coding' width = "350" height = "400" src = "https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
 - 🔭 I’m currently working on **AI/ML Recommendation System & Matching Algorithm**
 
