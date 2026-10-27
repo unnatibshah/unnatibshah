@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=200&section=header&text=Unnati%20Shah&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Generative%20AI%20Engineer%20%40%20Johnson%20%26%20Johnson&descAlignY=58&descSize=18" width="100%"/>
+<img src="./assets/header.svg" width="100%"/>
 
 <p align="center">
   <a href="https://github.com/unnatibshah">
@@ -69,4 +69,4 @@ I build agentic AI systems that run in production: multi-agent orchestration, Gr
   <img alt="contribution snake" src="https://raw.githubusercontent.com/unnatibshah/unnatibshah/output/snake.svg"/>
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=100&section=footer" width="100%"/>
+<img src="./assets/footer.svg" width="100%"/>
