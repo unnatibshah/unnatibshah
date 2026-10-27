@@ -1,8 +1,8 @@
-<img src="./assets/header.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/unnatibshah/unnatibshah/main/assets/header.svg" width="100%"/>
 
 <p align="center">
   <a href="https://github.com/unnatibshah">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=Building+multi-agent+AI+systems+%F0%9F%A4%96;GraphRAG+%E2%80%A2+LLM+Evals+%E2%80%A2+MCP;50K%2B+queries%2Fday+in+production+%F0%9F%9A%80;MS+CS+%40+USC+%7C+ML+Researcher+%F0%9F%93%84" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=Building+multi-agent+AI+systems;GraphRAG+%E2%80%A2+LLM+Evals+%E2%80%A2+MCP;50K%2B+queries%2Fday+in+production;MS+CS+%40+USC+%7C+ML+Researcher" alt="Typing SVG" />
   </a>
 </p>
 
@@ -69,4 +69,4 @@ I build agentic AI systems that run in production: multi-agent orchestration, Gr
   <img alt="contribution snake" src="https://raw.githubusercontent.com/unnatibshah/unnatibshah/output/snake.svg"/>
 </picture>
 
-<img src="./assets/footer.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/unnatibshah/unnatibshah/main/assets/footer.svg" width="100%"/>
