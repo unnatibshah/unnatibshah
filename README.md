@@ -21,6 +21,10 @@ I build agentic AI systems that run in production: multi-agent orchestration, Gr
 - [The Entry-Deterring Effects of Synergies in Complementor Acquisitions: Evidence from Apple's iOS App Store](https://doi.org/10.1002/smj.3639) · *Strategic Management Journal, 2024*
 - [Maintaining Privacy in Medical Imaging with Federated Learning, Differential Privacy & Encrypted Computation](https://doi.org/10.1109/I2CT51068.2021.9417997) · *IEEE I2CT, 2021*
 
+<h3 align="left">🧪 Live Demos</h3>
+
+- [Embedding Playground](https://unnatibshah.github.io/embedding-playground/) · [Code](https://github.com/unnatibshah/embedding-playground) · *Same query, three models: compare how open embedding models (MiniLM, BGE, E5) rank the same documents, live in your browser.*
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/unnati9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="unnati-shah" height="30" width="40" /></a>
