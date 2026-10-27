@@ -52,12 +52,6 @@ I build agentic AI systems that run in production: multi-agent orchestration, Gr
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=unnatibshah&theme=tokyonight&hide_border=true"/>
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unnatibshah/unnatibshah/output/snake-dark.svg"/>
   <img alt="contribution snake" src="https://raw.githubusercontent.com/unnatibshah/unnatibshah/output/snake.svg"/>
