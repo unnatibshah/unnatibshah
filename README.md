@@ -56,7 +56,6 @@ I build agentic AI systems that run in production: multi-agent orchestration, Gr
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=unnatibshah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unnatibshah&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=unnatibshah&theme=tokyonight&hide_border=true"/>
