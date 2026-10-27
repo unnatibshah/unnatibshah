@@ -67,4 +67,3 @@ I build agentic AI systems that run in production: multi-agent orchestration, Gr
   <img alt="contribution snake" src="https://raw.githubusercontent.com/unnatibshah/unnatibshah/output/snake.svg"/>
 </picture>
 
-<img src="https://raw.githubusercontent.com/unnatibshah/unnatibshah/main/assets/footer.svg" width="100%"/>
