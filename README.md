@@ -17,7 +17,7 @@
 
 I build agentic AI systems that run in production: multi-agent orchestration, GraphRAG, and the evals that keep LLMs honest.
 
-- 🤖 Shipping **multi-agent systems** (LangGraph · A2A · MCP) that serve **50K+ queries/day** at J&J
+- 🤖 Shipping **multi-agent systems** (LangGraph · A2A · MCP) at J&J
 - 🔭 Building **AI-native contract intelligence**: LLM extraction with provenance, pgvector search, data-layer access control
 - 🧠 Previously **C3.ai**: Text-to-SQL on Llama 3-70B with grammar-constrained decoding
 - 📄 ML research featured in the **Strategic Management Journal** and **IEEE**
