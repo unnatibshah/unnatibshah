@@ -1,14 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Unnati Shah</h1>
 <img align = "right" alt = 'Coding' width = "350" height = "400" src = "https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
-- 🔭 I’m currently working on **multi-agent AI systems (LangGraph · A2A · MCP) and an AI-native contract intelligence platform**
-
-- 🌱 I’m currently exploring **GraphRAG, agentic evaluation, and LLM observability**
-
-- 🧠 Previously: **Text-to-SQL with Llama 3-70B at C3.ai, and RAG at 100K+ document scale**
-
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"> I'm Unnati
-
 I build agentic AI systems that run in production: multi-agent orchestration, GraphRAG, and the evals that keep LLMs honest.
 
 - 🤖 Shipping **multi-agent systems** (LangGraph · A2A · MCP) at J&J
