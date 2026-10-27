@@ -1,5 +1,4 @@
 <h1 align="center">Hi there 👋, I'm Unnati Shah</h1>
-<h3 align="center">Generative AI Engineer @ Johnson & Johnson | MSCS @ University of Southern California</h3>
 <img align = "right" alt = 'Coding' width = "350" height = "400" src = "https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
 - 🔭 I’m currently working on **multi-agent AI systems (LangGraph · A2A · MCP) and an AI-native contract intelligence platform**
