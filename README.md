@@ -23,6 +23,7 @@ I build agentic AI systems that run in production: multi-agent orchestration, Gr
 
 <h3 align="left">🧪 Live Demos</h3>
 
+- [Office RAG](https://unnatibshah.github.io/office-rag/) · [Code](https://github.com/unnatibshah/office-rag) · *See how slides and spreadsheets become RAG chunks: structure-aware PowerPoint & Excel ingestion, in-browser search and cited answers with your own model.*
 - [Agent Orchestrator](https://unnatibshah.github.io/Adaptive-Insight-Orchestrator-/) · [Code](https://github.com/unnatibshah/Adaptive-Insight-Orchestrator-) · *Ask once and watch a LangGraph planner fan out to weather, news and knowledge agents over MCP in parallel, then write a grounded answer.*
 - [Embedding Playground](https://unnatibshah.github.io/embedding-playground/) · [Code](https://github.com/unnatibshah/embedding-playground) · *Same query, three models: compare how open embedding models (MiniLM, BGE, E5) rank the same documents, live in your browser.*
 
